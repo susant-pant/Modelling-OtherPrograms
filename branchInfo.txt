@@ -1,0 +1,1 @@
+customPoints has a program that allows you to add, remove, and move points (white squares) on an OpenGL window using mouse input. (Took like 5 minutes, don't judge)
